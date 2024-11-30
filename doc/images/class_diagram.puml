@@ -37,7 +37,7 @@ Temporale ..> Celebration : produces
 Sanctorale "1" --> "0..*" Celebration
 
 Day "1" --> "1..*" Celebration
-Celebration --> Season
+Day --> Season
 Celebration --> Rank
 Celebration --> Colour
 Celebration --> AbstractDate
