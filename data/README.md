@@ -3,7 +3,7 @@
 Sanctorale calendar data are defined in plain-text files following
 the format specified below.
 
-Some sample data files may be found in this directory.
+Some sample data files can be found in this directory.
 
 ## Data format
 
@@ -15,8 +15,13 @@ Empty lines are ignored.
 
 ### Month headings
 
-Line beginning with a `=` is a month heading and may only contain
+Line beginning with a `=` is a month heading.
+The `=` must be followed by (optional whitespace and)
 a number from range 1-12.
+
+```
+= [NUMBER]
+```
 
 ### Calendar entries
 
