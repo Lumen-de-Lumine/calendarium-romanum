@@ -728,7 +728,7 @@ or 2030-06-23 ordinary 12 false
 - "S. Francisci Assisiensis" 3.1 white francis_assisi 10/4 sanctorale
 2030-10-05 ordinary 26 true
 - "Sabbato, hebdomada XXVI per annum" 3.13 green   temporale
-- "S. Faustinæ Kowalska, virginis" 3.12 white faustina_kowalska 10/5 sanctorale
+- "S. Faustinae Kowalska, virginis" 3.12 white faustina_kowalska 10/5 sanctorale
 - "Memoria Sanctae Mariae in Sabbato" 3.12 white saturday_memorial_bvm  temporale
 2030-10-06 ordinary 27 false
 - "Dominica XXVII per annum" 2.6 green   temporale

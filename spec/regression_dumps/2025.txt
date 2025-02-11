@@ -746,7 +746,7 @@ or 2026-06-07 ordinary 10 false
 - "Dominica XXVII per annum" 2.6 green   temporale
 2026-10-05 ordinary 27 false
 - "Feria secunda, hebdomada XXVII per annum" 3.13 green   temporale
-- "S. Faustinæ Kowalska, virginis" 3.12 white faustina_kowalska 10/5 sanctorale
+- "S. Faustinae Kowalska, virginis" 3.12 white faustina_kowalska 10/5 sanctorale
 2026-10-06 ordinary 27 false
 - "Feria tertia, hebdomada XXVII per annum" 3.13 green   temporale
 - "S. Brunonis, presbyteri" 3.12 white bruno 10/6 sanctorale

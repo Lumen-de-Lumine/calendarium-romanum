@@ -750,7 +750,7 @@ or 2023-06-11 ordinary 10 false
 - "S. Francisci Assisiensis" 3.1 white francis_assisi 10/4 sanctorale
 2023-10-05 ordinary 26 false
 - "Feria quinta, hebdomada XXVI per annum" 3.13 green   temporale
-- "S. Faustinæ Kowalska, virginis" 3.12 white faustina_kowalska 10/5 sanctorale
+- "S. Faustinae Kowalska, virginis" 3.12 white faustina_kowalska 10/5 sanctorale
 2023-10-06 ordinary 26 false
 - "Feria sexta, hebdomada XXVI per annum" 3.13 green   temporale
 - "S. Brunonis, presbyteri" 3.12 white bruno 10/6 sanctorale
