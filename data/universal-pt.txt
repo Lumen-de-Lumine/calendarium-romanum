@@ -162,6 +162,7 @@ locale: pt
 
 = 9
 3 m gregory_great : S. Gregório Magno, papa e doutor da Igreja
+5 teresa_calcutta : S. Teresa de Calcutá, virgem
 8 f bvm_birth : Natividade da Virgem Santa Maria
 9 claver : S. Pedro Claver, presbítero
 12 bvm_name : Santíssimo Nome de Maria

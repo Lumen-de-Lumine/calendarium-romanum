@@ -159,6 +159,7 @@ locale: it
 
 = 9
 3 m gregory_great : San Gregorio Magno, papa e dottore della Chiesa
+5 teresa_calcutta : Santa Teresa di Calcutta, vergine
 8 f bvm_birth : Natività della Beata Vergine Maria
 9 claver : San Pietro Claver, sacerdote
 12 bvm_name : Santissimo Nome di Maria

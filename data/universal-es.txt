@@ -160,6 +160,7 @@ locale: es
 
 = 9
 3 m gregory_great : San Gregorio Magno, Papa y Doctor de la Iglesia
+5 teresa_calcutta : Santa Teresa de Calcuta, Virgen
 8 f bvm_birth : Natividad de la Bienaventurada Virgen María
 9 claver : San Pedro Claver, Presbítero
 12 bvm_name : Santísimo Nombre de la Bienaventurada Virgen María

@@ -160,6 +160,7 @@ locale: fr
 
 = 9
 3 m gregory_great : Saint Grégoire le Grand, pape et docteur de l'Église
+5 teresa_calcutta : Sainte Teresa de Calcutta, vierge
 8 f bvm_birth : Nativité de la Vierge Marie
 9 claver : Saint Pierre Claver, prêtre
 12 bvm_name : Saint Nom de la Bienheureuse Vierge Marie

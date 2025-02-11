@@ -687,6 +687,7 @@ or 2022-06-19 ordinary 12 false
 - "Dominica XXIII per annum" 2.6 green   temporale
 2022-09-05 ordinary 23 false
 - "Feria secunda, hebdomada XXIII per annum" 3.13 green   temporale
+- "S. Teresiae de Calcutta, virginis" 3.12 white teresa_calcutta 9/5 sanctorale
 2022-09-06 ordinary 23 false
 - "Feria tertia, hebdomada XXIII per annum" 3.13 green   temporale
 2022-09-07 ordinary 23 false

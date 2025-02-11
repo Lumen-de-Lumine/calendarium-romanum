@@ -160,6 +160,7 @@ locale: la
 
 = 9
 3 m gregory_great : S. Gregorii Magni, papae et Ecclesiae doctoris
+5 teresa_calcutta : S. Teresiae de Calcutta, virginis
 8 f bvm_birth : In Nativitate B. Mariae Virginis
 9 claver : S. Petri Claver, presbyteri
 12 bvm_name : Ss.mi Nominis Mariae

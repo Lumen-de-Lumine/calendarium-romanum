@@ -657,6 +657,7 @@ or 2030-06-23 ordinary 12 false
 - "Feria quarta, hebdomada XXII per annum" 3.13 green   temporale
 2030-09-05 ordinary 22 false
 - "Feria quinta, hebdomada XXII per annum" 3.13 green   temporale
+- "S. Teresiae de Calcutta, virginis" 3.12 white teresa_calcutta 9/5 sanctorale
 2030-09-06 ordinary 22 false
 - "Feria sexta, hebdomada XXII per annum" 3.13 green   temporale
 2030-09-07 ordinary 22 true

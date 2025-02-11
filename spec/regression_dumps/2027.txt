@@ -690,6 +690,7 @@ or 2028-06-18 ordinary 11 false
 - "Feria secunda, hebdomada XXII per annum" 3.13 green   temporale
 2028-09-05 ordinary 22 false
 - "Feria tertia, hebdomada XXII per annum" 3.13 green   temporale
+- "S. Teresiae de Calcutta, virginis" 3.12 white teresa_calcutta 9/5 sanctorale
 2028-09-06 ordinary 22 false
 - "Feria quarta, hebdomada XXII per annum" 3.13 green   temporale
 2028-09-07 ordinary 22 false

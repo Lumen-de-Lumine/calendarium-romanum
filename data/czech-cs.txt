@@ -176,6 +176,7 @@ country: cz
 
 = 9
 3 m gregory_great : Sv. Řehoře Velikého, papeže a učitele církve
+5 teresa_calcutta : Sv. Terezie z Kalkaty, panny
 7 R grodecky : Sv. Melichara Grodeckého, kněze a mučedníka
 8 f bvm_birth : Narození Panny Marie
 9 claver : Sv. Petra Klavera, kněze

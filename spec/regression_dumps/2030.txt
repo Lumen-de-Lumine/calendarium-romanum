@@ -674,6 +674,7 @@ or 2031-06-15 ordinary 11 false
 - "Feria quinta, hebdomada XXII per annum" 3.13 green   temporale
 2031-09-05 ordinary 22 false
 - "Feria sexta, hebdomada XXII per annum" 3.13 green   temporale
+- "S. Teresiae de Calcutta, virginis" 3.12 white teresa_calcutta 9/5 sanctorale
 2031-09-06 ordinary 22 true
 - "Sabbato, hebdomada XXII per annum" 3.13 green   temporale
 - "Memoria Sanctae Mariae in Sabbato" 3.12 white saturday_memorial_bvm  temporale
