@@ -72,7 +72,7 @@ note: |
 
 = 5
 
-1 joseph_worker : S. loseph Opificis
+1 joseph_worker : S. Ioseph Opificis
 2 m athanasius : S. Athanasii, episcopi et Ecclesiae doctoris
 3 f R philip_james : Ss. Philippi et Iacobi, apostolorum
 12 R nereus_achilleus : Ss. Nerei et Achillei, martyrum
