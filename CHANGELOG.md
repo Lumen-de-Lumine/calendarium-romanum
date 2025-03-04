@@ -1,3 +1,12 @@
+# [2.1.0](https://github.com/Lumen-de-Lumine/calendarium-romanum/compare/v2.0.4...v2.1.0) (2025-03-04)
+
+
+### Features
+
+* Add Mother Teresea to calendar ([4c43713](https://github.com/Lumen-de-Lumine/calendarium-romanum/commit/4c437139598badc08c1c843ea66c47f008df15f4))
+
+
+
 ## [2.0.4](https://github.com/Lumen-de-Lumine/calendarium-romanum/compare/v2.0.3...v2.0.4) (2021-09-02)
 
 
