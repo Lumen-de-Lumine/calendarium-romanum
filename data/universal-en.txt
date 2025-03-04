@@ -160,6 +160,7 @@ locale: en
 
 = 9
 3 m gregory_great : Saint Gregory the Great, Pope and Doctor of the Church
+5 mother_teresa : Saint Teresa of Calcutta, Virgin
 8 f bvm_birth : The Nativity of the Blessed Virgin Mary
 9 claver : Saint Peter Claver, Priest
 12 bvm_name : The Most Holy Name of Mary
