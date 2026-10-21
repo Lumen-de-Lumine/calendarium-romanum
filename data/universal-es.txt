@@ -187,6 +187,7 @@ locale: es
 7 m bvm_rosary : Nuestra Señora del Rosario
 9 R denis : Santos Dionisio y compañeros, Mártires
 9 leonardi : San Juan Leonardi, Presbítero
+9 newman : San Juan Enrique Newman, Presbítero y Doctor de la Iglesia
 11 john_xxiii : San Juan XXIII, Papa
 14 R callistus_i : San Calixto I, Papa y Mártir
 15 m teresa_avila : Santa Teresa de Jesús, Virgen y Doctora de la Iglesia

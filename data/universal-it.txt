@@ -185,6 +185,7 @@ locale: it
 7 m bvm_rosary : Beata Vergine Maria del Rosario
 9 R denis : San Dionigi, vescovo, e compagni, martiri
 9 leonardi : San Giovanni Leonardi, sacerdote
+9 newman : San Giovanni Enrico Newman, sacerdote e dottore della Chiesa
 11 john_xxiii : San Giovanni XXIII, papa
 14 R callistus_i : San Callisto I, papa e martire
 15 m teresa_avila : Santa Teresa di Gesù, vergine e dottore della Chiesa

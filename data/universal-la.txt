@@ -186,6 +186,7 @@ locale: la
 7 m bvm_rosary :  B. Mariae Virginis a Rosario
 9 R denis : Ss. Dionysii, episcopi, et sociorum, martyrum
 9 leonardi : S. Ioannis Leonardi, presbyteri
+9 newman : S. Ioannis Henrici Newman, presbyteri et Ecclesiae doctoris
 11 john_xxiii : S. Ioannis XXIII, papae
 14 R callistus_i : S. Callisti I, papae et martyris
 15 m teresa_avila :  S. Teresiae a Iesu, virginis et Ecclesiae doctoris

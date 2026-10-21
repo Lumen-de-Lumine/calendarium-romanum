@@ -204,6 +204,7 @@ country: cz
 7 m bvm_rosary : Panny Marie Růžencové
 9 R denis : Sv. Dionýsia, biskupa, a druhů, mučedníků
 9 leonardi : Sv. Jana Leonardiho, kněze
+9 newman : Sv. Johna Henryho Newmana, kněze a učitele církve
 11 john_xxiii : Sv. Jana XXIII., papeže
 12 radim : Sv. Radima, biskupa
 14 R callistus_i : Sv. Kalista I., papeže a mučedníka

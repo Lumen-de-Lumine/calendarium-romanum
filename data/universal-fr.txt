@@ -187,6 +187,7 @@ locale: fr
 7 m bvm_rosary : Notre Dame du Rosaire
 9 R denis : Saint Denis et ses compagnons, martyrs
 9 leonardi : Saint Jean Leonardi, prêtre
+9 newman : Saint John Henry Newman, prêtre et docteur de l'Église
 11 john_xxiii : Saint Jean XXIII, pape
 14 R callistus_i : Saint Calixte, pape et martyr
 15 m teresa_avila : Sainte Thérèse de Jésus, vierge et docteur de l'Église
